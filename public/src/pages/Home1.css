@@ -1,0 +1,59 @@
+.nav{
+    background-color: black;
+    height:3em;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.connect{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color:red */
+}
+.bell{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color:white */
+}
+
+.logo{
+    margin-left:1em;
+}
+.scene{
+    width:2em;
+}
+.menu{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    margin-top:2em;
+}
+.bannerButton{
+    display:flex;
+    align-items: center;
+    
+}
+.movies{
+    display: flex;
+    flex-wrap: wrap;
+}
+.imgMovie{
+    height:7em;
+    padding: 10px;
+    transition: 0.5s
+}
+.imgMovie:hover{
+    height:8em;
+}
+.modal{
+    display: flex;
+}
+.modalButton{
+    display: flex;
+    flex-direction: column;
+  
+    justify-content:center;
+}
