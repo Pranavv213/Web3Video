@@ -1,5 +1,5 @@
 import titanicS from "../images/titanicScene.png";
-import tita from "../images/tit.png";
+import titanic from "../images/tit.png";
 import movieLogo from "../images/movieLogo.png";
 import spidey from "../images/spidey.png";
 import jumanji from "../images/jumanji.png";
