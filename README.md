@@ -40,3 +40,18 @@
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
+
+## We train u through GDSC events as well
+
+-What is GDSC ?
+-GDSC is a club wherein we :-
+1) Build Together
+2) Grow Together
+3) Innovate Together
+-We will teach u different tech stacks like
+1)Blockchain
+2)Machine Learning
+3)Web Development 
+4)etc
+
+-Join our GDSC :  https://gdsc.community.dev/rv-institute-of-technology-and-management-bengaluru/
