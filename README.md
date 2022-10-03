@@ -1,4 +1,7 @@
 ## Here we provide you resources to start with web3.
+## My Youtube channel.
+(https://www.youtube.com/channel/UCQXte7z3QifeMGQUZ4aek-A)
+
 
 ## Getting Involved in web3
 - [Blockchain Trilemma](https://medium.com/certik/the-blockchain-trilemma-decentralized-scalable-and-secure-e9d8c41a87b3) An article about the Blockchain Trilemma.
