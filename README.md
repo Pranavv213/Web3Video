@@ -40,3 +40,8 @@
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
+
+
+## Contributing to this Repository
+
+Please consult the Code of Conduct as well as the Contributions markdown files to clearly understand the procedure to contribute. These two files are standards for every Open Source Project to enforce proper coordination and management of the project.
