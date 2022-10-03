@@ -16,6 +16,7 @@ const Player = () => {
           
         /></Link>
   </div>
+<h1>About Page</h1>
   <video style={{'height':'30em','width':'70em','margin-left':'1em'}} autoplay controls>
     <source src={movie}>
     
