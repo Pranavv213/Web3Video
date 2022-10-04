@@ -7,6 +7,8 @@
 - [Blockchain Trilemma](https://medium.com/certik/the-blockchain-trilemma-decentralized-scalable-and-secure-e9d8c41a87b3) An article about the Blockchain Trilemma.
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/) Introductory paper published in 2014 by Vitalik Buterin, Ethereum's founder, before the launch in 2015.
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) The "Yellow Paper": Ethereum's formal specification
+- [BusinessToday.in](https://www.businesstoday.in/coindcx-crypto-exchange/article/story/what-is-web-30-342388-2022-08-05) Brief insight on Web 3.0
+- [Dev Genius](https://blog.devgenius.io/how-to-become-a-web3-developer-e1e76a23dcc7) How To Become A Web3 Developer
 
 ## Web3 Roadmaps- Videos
 
@@ -40,6 +42,9 @@
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
+- [Progamming with Mosh](https://www.youtube.com/c/programmingwithmosh/featured)
+- [The Coding Train](https://www.youtube.com/c/TheCodingTrain/featured)
+- [Telusko](https://www.youtube.com/c/Telusko)
 
 ## We train u through GDSC events as well
 
