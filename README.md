@@ -1,5 +1,7 @@
 ## Here we provide you resources to start with web3.
 ## My Youtube channel.
+
+![YT Channel](https://user-images.githubusercontent.com/91011302/193727934-c71f48c6-2d31-43f1-8da0-d8c514c7737a.png)
 (https://www.youtube.com/channel/UCQXte7z3QifeMGQUZ4aek-A)
 
 
