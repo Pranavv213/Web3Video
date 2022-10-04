@@ -40,6 +40,9 @@
 - [Nader Dabit](https://www.youtube.com/c/naderdabit)
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/videos)
+- [Progamming with Mosh](https://www.youtube.com/c/programmingwithmosh/featured)
+- [The Coding Train](https://www.youtube.com/c/TheCodingTrain/featured)
+- [Telusko](https://www.youtube.com/c/Telusko)
 
 ## We train u through GDSC events as well
 
